@@ -1,0 +1,8 @@
+# target folder and class files
+/target
+*.class
+
+# eclipse settings
+.settings/
+.classpath
+.project
